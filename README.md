@@ -43,3 +43,11 @@ Hi there 👋
 USE drug_db;
 SELECT * FROM monthly_sales;
 
+## 项目二：药品管理系统（数据源）
+
+![药品管理系统界面](drug_system.png)
+
+- 使用Spring + SQL Server开发
+- 实现药品信息的增删查改
+- 存储19种药品真实数据
+- 为大数据分析平台提供业务数据源
